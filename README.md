@@ -1,4 +1,4 @@
-## Taskinator
+# Taskinator
 
   [Application live here](https://quinnpucci.github.io/taskinator/)
 
